@@ -10,7 +10,7 @@
         "cakephp/migrations": "^4.0.0",
         "cakephp/plugin-installer": "^2.0",
         "mikehaertl/phpwkhtmltopdf": "^2.5",
-        "mobiledetect/mobiledetectlib": "^3.74",
+        "mobiledetect/mobiledetectlib": "^4.8",
         "mpdf/mpdf": "^6.1"
     },
     "require-dev": {
